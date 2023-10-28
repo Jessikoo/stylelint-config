@@ -1,4 +1,4 @@
-# stylelint-config-htmlacademy
+# stylelint-config
 
 [![Test Status][test-image]][test-url]
 [![License: MIT][license-image]][license-url]
